@@ -1,4 +1,4 @@
-FROM circleci/elixir:1.8.1
+FROM circleci/elixir:1.8.1-node-browsers
 
 USER root
 
